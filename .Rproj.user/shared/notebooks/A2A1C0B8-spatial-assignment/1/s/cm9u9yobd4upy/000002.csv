@@ -1,0 +1,3 @@
+"0","npp_filtered <- npp < 3 & npp > 2.6"
+"2","
+"

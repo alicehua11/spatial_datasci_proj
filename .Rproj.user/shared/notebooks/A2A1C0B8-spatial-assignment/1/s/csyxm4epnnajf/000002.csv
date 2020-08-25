@@ -1,0 +1,4 @@
+"0","states <- getData(""GADM"", country=""USA"", level=1) %>%"
+"0","  st_as_sf() %>%"
+"0","  st_transform(st_crs(masking_mpas)) %>%"
+"0","  st_simplify(dTolerance = 500)"

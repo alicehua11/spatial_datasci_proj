@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571421404882.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "467646670",
+    "id" : "BE5BDDBB",
+    "lastKnownWriteTime" : 1572605466,
+    "last_content_update" : 1572605466968,
+    "path" : "C:/Users/alice/OneDrive/Schools/Berkeley/Fall2019/Rstudio/spatial-hua-nguyen/spatial/spatial-assignment.Rmd",
+    "project_path" : "spatial/spatial-assignment.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,2",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

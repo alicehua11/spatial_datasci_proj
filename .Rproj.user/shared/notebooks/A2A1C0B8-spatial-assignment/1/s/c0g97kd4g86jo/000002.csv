@@ -1,0 +1,8 @@
+"0","# stacking our rasters into a rasterStack object for querying"
+"0","aa_sst_stack <- stack(avg_2008, avg_2009, avg_2010, avg_2011, avg_2012)"
+"0","filtered_stack <- aa_sst_stack - 273.15"
+"0","filtered_stacker <- filtered_stack > 12 & filtered_stack < 18"
+"0","filtered_stack_with_calc <- calc(filtered_stacker, fun=prod) "
+"0",""
+"0","# filter by habitable net primary productivity"
+"0","npp_filtered <- npp < 3 & npp > 2.6"
